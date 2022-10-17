@@ -16,9 +16,9 @@
 - Doctor can create appointment Data and time.
 - Doctor can check the daily and all time appointment Information.
 - Patient can register as a patient in this system.
- -Patient can book appoitnment from available doctor and doctor's available time.
+- Patient can book appoitnment from available doctor and doctor's available time.
 
-- 
+
 ###
 # Key Technology
 - Laravel 8
