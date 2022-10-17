@@ -51,7 +51,7 @@
 
 # Advice  Entry
 <a  href="">
-  <img  width="50%"  height="50%"  src="https://i.ibb.co/SN5tS7T/advice-entry.png"/>
+  <img  width="100%"  height="100%"  src="https://i.ibb.co/SN5tS7T/advice-entry.png"/>
 </a>
 
 # Investigation Entry
@@ -95,7 +95,7 @@
                                                                                    
  # Admin Dashboard
  <a  href="">
-  <img  width="100%"  height="100%"  src="https://i.ibb.co/TwSSk5T/Doctor-dashboard.png"/>
+  <img  width="80%"  height="80%"  src="https://i.ibb.co/TwSSk5T/Doctor-dashboard.png"/>
 </a>                                                                                  
                                                                                    
 # Dcotor's Appoitnment Date and time Create
