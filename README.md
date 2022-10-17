@@ -1,21 +1,29 @@
 # prescription-apointment-system-laravel
 
-# Web Application Details Features 
+# Web Application Details Features
+
+ # prescription
 - Complete web application with a dynamic service section.
 - Admin can add, update and delete Medicne, Investigation, Advice, Duration, Instruction.
- -Admin Can Add PA
-- HOD can add File and set the Approval flow where that File will go.
-- USER Can add note under the File.
-- when incoming a new note a user will show the note in INBOX.
-- After Approving the note that note  will go on next approval person.
-- FinallY Director can Approve or Reject the note.
-- That note will go on Accounts Section for clearance.
-- User can add new request, template.
+ -Admin Can add new Patient and edit old patient information.
+ -Admin can serch old patient information.
+- Admin can create prescription.
+- Amdin can create new visit no. for old prescription.
+- Admin can get the daily patient data.
 
+# Appointment
+
+- Doctor can create appointment Data and time.
+- Doctor can check the daily and all time appointment Information.
+- Patient can register as a patient in this system.
+ -Patient can book appoitnment from available doctor and doctor's available time.
+
+- 
 ###
 # Key Technology
 - Laravel 8
 - PHP
 - Javascript
+- jQuery
 - MySQL
-- Bootstrap5
+- Bootstrap
