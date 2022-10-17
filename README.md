@@ -92,12 +92,12 @@
 <a  href="">
   <img  width="100%"  height="100%"  src="https://i.ibb.co/ncDhL06/dcotor-book.png"/>
 </a>
-                                                                                   
- # Admin Dashboard
- <a  href="">
-  <img  width="80%"  height="80%"  src="https://i.ibb.co/TwSSk5T/Doctor-dashboard.png"/>
-</a>                                                                                  
-                                                                                   
+
+# Admin Dashboard
+<a  href="">
+  <img  width="100%"  height="100%"  src="https://i.ibb.co/TwSSk5T/Doctor-dashboard.png"/>
+</a>
+
 # Dcotor's Appoitnment Date and time Create
 <a  href="">
   <img  width="100%"  height="100%"  src="https://i.ibb.co/2q4cLP1/appointment-create.png"/>
